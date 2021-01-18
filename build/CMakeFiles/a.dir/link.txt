@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.dir/main.c++.o CMakeFiles/a.dir/Burrito.c++.o -o a 

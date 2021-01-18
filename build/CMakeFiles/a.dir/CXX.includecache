@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sudershan/vs_projects/widgets_wx/Burrito.c++
+Burrito.h
+/home/sudershan/vs_projects/widgets_wx/Burrito.h
+iostream
+-
+
+/home/sudershan/vs_projects/widgets_wx/Burrito.h
+
+/home/sudershan/vs_projects/widgets_wx/main.c++
+iostream
+-
+Burrito.h
+/home/sudershan/vs_projects/widgets_wx/Burrito.h
+

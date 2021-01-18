@@ -1,0 +1,3 @@
+/home/sudershan/vs_projects/widgets_wx/build/CMakeFiles/rebuild_cache.dir
+/home/sudershan/vs_projects/widgets_wx/build/CMakeFiles/edit_cache.dir
+/home/sudershan/vs_projects/widgets_wx/build/CMakeFiles/a.dir
